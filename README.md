@@ -3,14 +3,13 @@
 
 ### By **Dennis Yiaile**
 
-### Live url:https://dennis-tec.github.io/kamakeiportfolio/
-
+### Live url:https://dennis-tec.github.io/my-portfolio/
 ## Description
 This projects is contains information about me. It contains all my personal details relating to Education, Skills, Experiences. The last part is a form type that helps people who want to contact me about anything relating to coding fill in their details.
 
 ## Setup/Installation requirement
 * Fast working Internet.
-* Project url link:https://dennis-tec.github.io/kamakeiportfolio/
+* Project url link:https://dennis-tec.github.io/my-portfolio/
 * Your email, name, and Tel.no if you want to contact me.
 
 ## Know bugs
