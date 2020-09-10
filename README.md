@@ -24,5 +24,5 @@ If you want us to form a collaboration in programming as well inquiring about an
 
 ## Licence
 
-**/MIT/**
-copyright (c)2020 Dennis K Yiaile
+*MIT*
+copyright (c)2020 **Dennis K Yiaile**
