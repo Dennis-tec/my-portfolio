@@ -6,21 +6,21 @@
 ### Live url:https://dennis-tec.github.io/kamakeiportfolio/
 
 ## Description
-This projects is contains information about me. It contains all my personal details relating to Education, Skills, Experiences. The last part is a form type that helps people who want to contact me about anything relating to coding fill in their details.
+This projects contains information about me. All my personal details relating to Education, Skills, Experiences have been highlighted. The last part is a form type that allow people who want to contact me about anything relating to coding fill in their details.
 
 ## Setup/Installation requirement
 * Fast working Internet.
 * Project url link:https://dennis-tec.github.io/kamakeiportfolio/
 * Your email, name, and Tel.no if you want to contact me.
 
-## Know bugs
-There are no bugs associated to this project.
+## Known bugs
+There are no bugs associated with this project.
 
 ## Technologies used
-The languages used to design this project are HTML, CSS, and Javascript.. Bootstrap.css styles has also been deployed in the project.
+The languages used to design this project are HTML, CSS, and Javascript. Bootstrap.css styles has also been deployed in the project.
 
 ## Contact
-If you want us to form a collaboration in programming as well inquiring about anything, contact me through ykamakei6345@gmail.com
+If you want us to form a collaboration in programming as well as inquiring about anything, contact me through ykamakei6345@gmail.com
 
 ## Licence
 
