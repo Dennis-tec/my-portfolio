@@ -6,7 +6,7 @@
 ### Live url:https://dennis-tec.github.io/kamakeiportfolio/
 
 ## Description
-This projects contains information about me. All my personal details relating to Education, Skills, Experiences have been highlighted. The last part is a form type that allow people who want to contact me about anything relating to coding fill in their details.
+This projects contains information about me. All my personal details relating to education, skills, experiences have been highlighted. The last part is a form type that allow people who want to contact me about anything relating to coding fill in their details.
 
 ## Setup/Installation requirement
 * Fast working Internet.
