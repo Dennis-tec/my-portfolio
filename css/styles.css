@@ -19,6 +19,15 @@ img{
 .intro{
   color: red;
 }
-.colomun{
+.column{
   column-count: 2
+}
+.education{
+  background-color: blue;
+}
+.skills{
+  background-color: blue;
+}
+.experience{
+  background-color: blue;
 }
