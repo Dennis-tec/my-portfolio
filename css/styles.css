@@ -14,13 +14,14 @@ img{
 .personaldetails{
   text-align: center;
   color: darkblue;
-
+}
+.column{
+  column-count: 2;
+  width: 20px;
+  height: 20px;
 }
 .intro{
   color: red;
-}
-.column{
-  column-count: 2
 }
 .education{
   background-color: blue;
