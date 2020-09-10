@@ -1,0 +1,24 @@
+.general{
+  background-color: grey;
+}
+h1{
+  text-align: center;
+  color: darkblue;
+  background-color: white;
+}
+img{
+  width: 180px;
+  border-radius: 30px;
+  height: 180px;
+}
+.personaldetails{
+  text-align: center;
+  color: darkblue;
+
+}
+.intro{
+  color: red;
+}
+.colomun{
+  column-count: 2
+}
